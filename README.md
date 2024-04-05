@@ -13,8 +13,8 @@ This project aims to enhance credit card approval processes by applying advanced
 - **`CreditCard-ApprovalPrediction-Notebook.ipynb`**: Jupyter Notebook with the predictive modeling code.
 - **`CreditCard-ApprovalPrediction.html`**: HTML source file of the modeling workflow.
 - **`CreditCard-ApprovalPrediction-Report.pdf`**: Comprehensive report on the methodology and recommendations.
-- **`application_record.csv`**: Dataset of application records.
-- **`credit_record.csv`**: Dataset of credit records.
+- **`application_record.csv`**: Dataset of application records sourced from Kaggle.
+- **`credit_record.csv`**: Dataset of credit records sourced from Kaggle.
 
 ## Setup and Requirements
 
@@ -30,7 +30,7 @@ Review the Jupyter Notebook for the analysis code, and refer to the PDF report f
 
 - Machine Learning professor Jörn Boehnke at the MSBA program of UC Davis, whose teachings have been instrumental in the execution of this project.
 - Thanks to my classmates Colin Chen and Jessica Yang for their contributions.
-- Data sourced from Kaggle.
+- Data sourced from Kaggle [Credit-Card-Approval-Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data).
 
 ## License
 
