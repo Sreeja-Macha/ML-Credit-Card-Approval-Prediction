@@ -6,7 +6,7 @@ The `Credit Card Approval Prediction` is essential in the financial services ind
 
 ## Overview
 
-This project aims to enhance credit card approval processes by applying advanced machine learning algorithms such as RandomForest, XGBoost, and LightGBM to predict applicant creditworthiness with greater accuracy. It attempts to address key challenges such as data imbalance through sophisticated techniques like SMOTE, ADASYN and Borderline-SMOTE and utilizes an observation window for more precise analysis, aiming to streamline decision-making and reduce default rates in the financial sector.
+This project aims to enhance credit card approval processes by applying advanced machine learning algorithms such as RandomForest, XGBoost, and LightGBM to predict applicant creditworthiness with greater accuracy. It attempts to address key challenges such as data imbalance through sophisticated techniques like SMOTE, ADASYN and Borderline-SMOTE and utilizes an observation window for more precise analysis, aiming to streamline decision-making and reduce default rates in the financial sector. The data has been sourced from Kaggle [Credit-Card-Approval-Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data).
 
 ## Files in the Project
 
@@ -30,7 +30,6 @@ Review the Jupyter Notebook for the analysis code, and refer to the PDF report f
 
 - Machine Learning professor Jörn Boehnke at the MSBA program of UC Davis, whose teachings have been instrumental in the execution of this project.
 - Thanks to my classmates Colin Chen and Jessica Yang for their contributions.
-- Data sourced from Kaggle [Credit-Card-Approval-Prediction](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data).
 
 ## License
 
